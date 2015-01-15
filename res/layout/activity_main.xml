@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@color/orange">
+    
+		<Button
+		    android:layout_width="match_parent"
+		    android:layout_height="150dp"
+		    android:layout_marginEnd="5dp"
+		    android:layout_marginStart="5dp"
+		    android:layout_marginTop="5dp"
+		    android:textColor="@color/red"
+		    android:onClick="compMe"
+		    android:text="@string/button_send" />
+		
+		<Button
+		    android:layout_width="match_parent"
+		    android:layout_height="75dp"
+		    android:layout_marginEnd="5dp"
+		    android:layout_marginStart="5dp"
+		    android:layout_marginTop="5dp"
+		    android:textColor="@color/red"
+		    android:alpha="2"
+		    android:onClick="favesButton"
+		    android:text="@string/button_fav" />
+		
+		<Button
+		    android:layout_width="match_parent"
+		    android:layout_height="75dp"
+		    android:layout_marginEnd="5dp"
+		    android:layout_marginStart="5dp"
+		    android:layout_marginTop="5dp"
+		    android:textColor="@color/red"
+		    android:onClick="settingsButton"
+		    android:text="@string/button_set" />
+
+
+		
+</LinearLayout>

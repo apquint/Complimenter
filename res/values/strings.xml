@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Complimenter</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Compliment Me</string>
+    <string name="button_fav">Favorites</string>
+    <string name="button_set">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_comp_out">Complimenter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_menu">Main Menu</string>
+    <string name="butt">compli</string>
+    <string name="comp">Test</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>
